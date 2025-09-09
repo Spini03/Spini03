@@ -55,3 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   </a>
 </p>
+
+### 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/gmail-santiagospini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagospini@gmail.com)
