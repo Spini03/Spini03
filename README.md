@@ -1,14 +1,17 @@
 ### Hi! I'm Santiago 👋
 
 <p>
-  I'm an <b>AI Engineer</b> & <b>Systems Engineer</b>  focused on architecting intelligent and scalable data solutions. I specialize in the intersection of <b>Generative AI, Data Engineering, and Autonomous Agents</b>.
+  Backend & Data Engineer focused on systems that move data 
+reliably and automatically.
 </p>
 
 <p>
-  Currently at <b>Urbs DATA</b>, I design enterprise-grade <b>RAG architectures</b> and <b>Text-to-SQL agents</b> using <b>LangGraph</b> and <b>LangChain</b>. My goal is to transform complex Data Warehouses into natural-language interfaces with zero-hallucination logic. 
+  I build APIs, workflow automations, and data pipelines in 
+production environments. Currently expanding into AI 
+engineering and software development
 </p>
 
-- 🔭 **Current Focus:** Advanced Agentic Workflows, Hybrid Search (Vector + Lexical), and Modern Data Stack orchestration.
+- 🔭 **Current Focus:** Backend systems, data automation, AI integration.
 - 🌱 **Certifications:** **OCI Data Science Professional** & **Power BI Data Analyst**.
 - 💬 **Languages:** Spanish (Native), English (B2), Italian (B2), and Portuguese (B2).
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/santiagospini)
