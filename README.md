@@ -8,7 +8,7 @@ reliably and automatically.
 <p>
   I build APIs, workflow automations, and data pipelines in 
 production environments. Currently expanding into AI 
-engineering and software development
+engineering and software development.
 </p>
 
 - 🔭 **Current Focus:** Backend systems, data automation, AI integration.
